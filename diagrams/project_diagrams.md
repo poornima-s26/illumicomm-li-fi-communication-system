@@ -8,53 +8,37 @@ This folder contains all system architecture diagrams and flowcharts for the **I
 
 ### Main System Block Diagram
 
-(Add main project block diagram below after upload)
+![Main Block Diagram](BlockDiagram.png)
 
 ---
 
 ## Image and Text Communication Module
 
-### Image/Text Transmitter Block Diagram
+### Image and Text Transmitter & Receiver Block Diagram
 
-(Add image below after upload)
+![Image and Text TX RX](Image and text tx and rx.png)
 
-### Image/Text Receiver Block Diagram
+### Image and Text Transmission Flowchart
 
-(Add image below after upload)
+![Flowchart 1](flow1.png)
 
-### Image/Text Transmitter Flowchart
+### Image and Text Receiver Flowchart
 
-(Add image below after upload)
-
-### Image/Text Receiver Flowchart
-
-(Add image below after upload)
+![Flowchart 2](flow2.png)
 
 ---
 
 ## Audio Communication Module
 
-### Audio Transmitter Block Diagram
+### Audio Communication Block Diagram
 
-(Add image below after upload)
-
-### Audio Receiver Block Diagram
-
-(Add image below after upload)
-
-### Audio Transmitter Flowchart
-
-(Add image below after upload)
-
-### Audio Receiver Flowchart
-
-(Add image below after upload)
+![Audio Module](Audio.png)
 
 ---
 
 ## Experimental Workflow
 
-The project demonstrates Li-Fi based communication using **Visible Light Communication (VLC)** technology for three different communication modes:
+The project demonstrates Li-Fi based communication using **Visible Light Communication (VLC)** technology for three communication modes:
 
 - Text Transmission  
 - Image Transmission  
