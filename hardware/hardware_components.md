@@ -4,7 +4,6 @@ This project uses the following hardware components.
 
 ## Main Controller
 
-- ESP32-CAM Module
 - ESP32 Development Board
 
 ## Transmission Section
