@@ -18,13 +18,11 @@ This folder contains all system architecture diagrams and flowcharts for the **I
 
 ![Image and Text TX RX](Image and text tx and rx.png)
 
-### Image and Text Transmission Flowchart
+### Image and Text Transmission and Receiver Flowchart
 
 ![Flowchart 1](flow1.png)
 
-### Image and Text Receiver Flowchart
 
-![Flowchart 2](flow2.png)
 
 ---
 
@@ -33,6 +31,10 @@ This folder contains all system architecture diagrams and flowcharts for the **I
 ### Audio Communication Block Diagram
 
 ![Audio Module](Audio.png)
+
+### Audio Transmitter and receiver Flow chart
+
+![Flowchart 2](flow2.png)
 
 ---
 
