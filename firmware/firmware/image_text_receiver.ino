@@ -7,8 +7,8 @@
 #include <WiFi.h>
 #include <WebServer.h>
 
-const char* ssid = "ABC";
-const char* password = "12345678";
+const char* ssid = "......";
+const char* password = ".......";
 
 WebServer server(80);
 
