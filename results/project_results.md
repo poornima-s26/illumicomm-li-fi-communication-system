@@ -36,7 +36,7 @@ To verify image data transmission through optical communication.
 
 ### Experimental Output
 
-![Image Transmission Result](image_audio_result.png)
+![Image Transmission Result](image_result.png)
 
 ---
 
@@ -56,7 +56,7 @@ To test audio communication through analog optical modulation.
 
 (Shown in image below)
 
-![Audio Transmission Result](image_audio_result.png)
+![Audio Transmission Result](audio_result.png)
 
 ---
 
