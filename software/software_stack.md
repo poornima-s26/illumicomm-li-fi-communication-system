@@ -1,50 +1,97 @@
 # Software and Programming
 
-This project uses the following software tools.
+This document contains software tools and algorithms used in the **ILLUMICOMM Li-Fi Communication System**.
+
+---
 
 ## Programming Environment
 
-- Arduino IDE
+- Arduino IDE  
+
+Used for programming ESP32 and ESP32-CAM modules.
+
+---
 
 ## Libraries Used
 
-- ESP32-CAM Libraries
-- Wi-Fi Libraries
-- Serial Communication Libraries
+- ESP32-CAM Libraries  
+- Wi-Fi Libraries  
+- Serial Communication Libraries  
+
+---
 
 ## Algorithms Implemented
 
-### Image Processing
+### Image Processing Algorithm
 
-- Image compression to 8×8 matrix
-- Binary pixel conversion
+- Image capture using ESP32-CAM  
+- Image compression into 8×8 matrix  
+- Binary pixel conversion (0 and 1)  
 
-### Text Processing
+Purpose:
 
-- ASCII encoding
-- Binary bitstream generation
+Prepare image data for optical transmission.
+
+---
+
+### Text Processing Algorithm
+
+- Character input processing  
+- ASCII conversion  
+- Binary bitstream generation  
+
+Purpose:
+
+Convert text into digital data packets.
+
+---
 
 ### Communication Algorithm
 
-- ON-OFF Keying (OOK) modulation
-- Digital optical communication
+**ON-OFF Keying (OOK) Modulation**
 
-### Audio Processing
+Working:
 
-- Analog signal amplification
-- Analog intensity modulation
+- Laser ON = Binary 1  
+- Laser OFF = Binary 0  
 
-## Debugging Tools
+Purpose:
 
-- Serial Monitor
-- Web Server Interface
+Transmit digital information using light pulses.
 
-## Purpose
+---
 
-Software controls:
+### Audio Processing Algorithm
 
-- Laser modulation
-- Signal encoding
-- Data transmission
-- Receiver decoding
-- Output display
+- Microphone analog signal capture  
+- Signal amplification using LM358  
+- Analog intensity modulation  
+
+Purpose:
+
+Transmit analog audio using laser intensity variation.
+
+---
+
+## Debugging and Monitoring
+
+- Serial Monitor  
+- Wi-Fi Web Server Interface  
+
+Used for:
+
+- Monitoring transmitted text  
+- Displaying received image  
+- System debugging  
+
+---
+
+## Software Functions
+
+The software controls:
+
+- Signal encoding  
+- Laser modulation  
+- Optical data transmission  
+- Receiver decoding  
+- Output display and validation
