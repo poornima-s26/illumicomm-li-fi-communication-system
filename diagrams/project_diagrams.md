@@ -16,7 +16,7 @@ This folder contains all system architecture diagrams and flowcharts for the **I
 
 ### Image and Text Transmitter & Receiver Block Diagram
 
-![Image and Text TX RX](Image and text tx and rx.png)
+![Image and Text TX RX](Imageandtexttxandrx.png)
 
 ### Image and Text Transmission and Receiver Flowchart
 
