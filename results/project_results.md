@@ -18,7 +18,7 @@ To verify successful transmission of text data using Li-Fi communication.
 
 ### Experimental Output
 
-![Text Transmission Result](text_result.png)
+![Text Transmission Result](text_result.jpg)
 
 ---
 
@@ -56,7 +56,7 @@ To test audio communication through analog optical modulation.
 
 (Shown in image below)
 
-![Audio Transmission Result](audio_result.png)
+![Audio Transmission Result](audio_result.jpg)
 
 ---
 
